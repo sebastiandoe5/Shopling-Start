@@ -1,7 +1,9 @@
 .CI {
-    background-color: #3589a1
+    background-color: #3589a1;
+    width: 250px;
+    height: 250px;
 }
 
 body {
-    background-color: #3589a1
+    background-color: #3589a1;
 }
